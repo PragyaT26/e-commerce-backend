@@ -5,7 +5,7 @@
   "description": "e-commerce website",
   "main": "./server/index.js",
   "scripts": {
-    "start": "node server/index.js",
+    "start": "node ./server/index.js",
     "dev": "nodemon server/index.js"
   },
   "author": "",
